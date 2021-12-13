@@ -1,0 +1,24 @@
+{
+  "name": "prova-aluno-wanyocastelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanyo15/prova-aluno-wanyoCastelo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wanyo15/prova-aluno-wanyoCastelo/issues"
+  },
+  "homepage": "https://github.com/Wanyo15/prova-aluno-wanyoCastelo#readme",
+  "dependencies": {
+    "knex": "^0.95.14",
+    "sqlite3": "^5.0.2"
+  }
+}
